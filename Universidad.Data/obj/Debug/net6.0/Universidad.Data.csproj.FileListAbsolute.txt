@@ -1,0 +1,15 @@
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\bin\Debug\net6.0\Universidad.Data.deps.json
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\bin\Debug\net6.0\Universidad.Data.dll
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\bin\Debug\net6.0\Universidad.Data.pdb
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\bin\Debug\net6.0\Universidad.Model.dll
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\bin\Debug\net6.0\Universidad.Model.pdb
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\obj\Debug\net6.0\Universidad.Data.csproj.AssemblyReference.cache
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\obj\Debug\net6.0\Universidad.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\obj\Debug\net6.0\Universidad.Data.AssemblyInfoInputs.cache
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\obj\Debug\net6.0\Universidad.Data.AssemblyInfo.cs
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\obj\Debug\net6.0\Universidad.Data.csproj.CoreCompileInputs.cache
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\obj\Debug\net6.0\Universidad.Data.csproj.CopyComplete
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\obj\Debug\net6.0\Universidad.Data.dll
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\obj\Debug\net6.0\refint\Universidad.Data.dll
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\obj\Debug\net6.0\Universidad.Data.pdb
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Data\obj\Debug\net6.0\ref\Universidad.Data.dll

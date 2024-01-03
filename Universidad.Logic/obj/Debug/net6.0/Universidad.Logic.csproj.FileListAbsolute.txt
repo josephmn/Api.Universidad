@@ -1,0 +1,17 @@
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\bin\Debug\net6.0\Universidad.Logic.deps.json
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\bin\Debug\net6.0\Universidad.Logic.dll
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\bin\Debug\net6.0\Universidad.Logic.pdb
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\bin\Debug\net6.0\Universidad.Data.dll
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\bin\Debug\net6.0\Universidad.Model.dll
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\bin\Debug\net6.0\Universidad.Data.pdb
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\bin\Debug\net6.0\Universidad.Model.pdb
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\obj\Debug\net6.0\Universidad.Logic.csproj.AssemblyReference.cache
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\obj\Debug\net6.0\Universidad.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\obj\Debug\net6.0\Universidad.Logic.AssemblyInfoInputs.cache
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\obj\Debug\net6.0\Universidad.Logic.AssemblyInfo.cs
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\obj\Debug\net6.0\Universidad.Logic.csproj.CoreCompileInputs.cache
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\obj\Debug\net6.0\Universidad.Logic.csproj.CopyComplete
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\obj\Debug\net6.0\Universidad.Logic.dll
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\obj\Debug\net6.0\refint\Universidad.Logic.dll
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\obj\Debug\net6.0\Universidad.Logic.pdb
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Logic\obj\Debug\net6.0\ref\Universidad.Logic.dll

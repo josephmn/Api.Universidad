@@ -1,0 +1,12 @@
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Model\bin\Debug\net6.0\Universidad.Model.deps.json
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Model\bin\Debug\net6.0\Universidad.Model.dll
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Model\bin\Debug\net6.0\Universidad.Model.pdb
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Model\obj\Debug\net6.0\Universidad.Model.csproj.AssemblyReference.cache
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Model\obj\Debug\net6.0\Universidad.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Model\obj\Debug\net6.0\Universidad.Model.AssemblyInfoInputs.cache
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Model\obj\Debug\net6.0\Universidad.Model.AssemblyInfo.cs
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Model\obj\Debug\net6.0\Universidad.Model.csproj.CoreCompileInputs.cache
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Model\obj\Debug\net6.0\Universidad.Model.dll
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Model\obj\Debug\net6.0\refint\Universidad.Model.dll
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Model\obj\Debug\net6.0\Universidad.Model.pdb
+C:\Users\ext-jose.huertas\Desktop\prayaga\Api.Universidad\Universidad.Model\obj\Debug\net6.0\ref\Universidad.Model.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8qjNtZoU0ei4mx5+iCRgbkMpC/MmFBaAVhddq0He43SAuRD1SCC/jm0ClE+WZ5fJCIxMg84R6H/CqTO+be2XhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ext-jose.huertas\\Desktop\\prayaga\\Api.Universidad\\Universidad.Model\\Universidad.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ext-jose.huertas\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
